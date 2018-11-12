@@ -1,0 +1,4 @@
+launch - standart, from index.html.
+
+Walking - by arrows, mount/unmount chest - on "space". 
+Get all chests from the map to the storage(start position)!
